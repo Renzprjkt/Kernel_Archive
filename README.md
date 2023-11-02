@@ -1,14 +1,6 @@
 Kernel for Xiaomi MI8953/SDM450/MT6765/SM6225/MSM8956/SDM660
 ================================================================
 
-```
-#
-# Copyright (C) 2023 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
-
 ## Included devices
 
 + Redmi Note 3 PRO/SE
